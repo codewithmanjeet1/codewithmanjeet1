@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeWithManjeet</h1>
+<h1 align="center">Hi 👋, I'm Manjeet Malhotra</h1>
 <h2 align="center"> 🚀 A Passionate Full Stack Developer from India</h2>
 <h3 align="center">I am a Full Stack Web Developer working at WebPanelSolution in the IT sector. I specialize in building dynamic and scalable web applications using HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Angular, and more.
 
