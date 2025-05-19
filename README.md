@@ -16,7 +16,7 @@ In my free time, I love solving LeetCode problems to sharpen my problem-solving 
 
 - 💬 Ask me about **JavaScript ,**
 
-- 📫 How to reach me **coderwithmanjeet@gmail.com**
+- 📫 How to reach me **codewithmanjeet@gmail.com**
 
 - ⚡ Fun fact **kapil show**
 
