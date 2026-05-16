@@ -169,12 +169,7 @@
 
 ---
 
-## 🧩 LeetCode Battlefield
 
-<div align="center">
-  <!-- 💡 Update 'codewithmanjeet1' below with your actual LeetCode username if different -->
-  <img src="https://leetcard.jacoblin.cool/codewithmanjeet1?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" alt="LeetCode Stats" />
-</div>
 
 ---
 
